@@ -7,10 +7,14 @@ Make sure you have signed in with a Github account to follow along:
 
 Instructions:
   - Open the file `poem.txt`
+  
+  - Go ahead and click on pencil icon to edit the file
   ![poem.txt](https://i.imgur.com/a8N73Hz.png "File")
 
   - Write the changes in poem and click on **Propose changes** button.
+  
   Then,
+  
   - Create a pull request
   ![poem.txt](https://i.imgur.com/BpbxNDy.png "File")
   ![poem.txt](https://i.imgur.com/oMZAv0d.png "File")
