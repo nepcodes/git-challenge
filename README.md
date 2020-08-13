@@ -1,6 +1,7 @@
 # Poem To Be Fixed
 
 Currently the poem does not rhyme. It is no sweet to ears. Instead, get your inner-poet on duty and see if you can make it sound more better.
+Go ahead, play with poem.txt and once you decide to finalize your work, submit to us.
 
 ## Guidelines !
 Make sure you have signed in with a Github account to follow along:
